@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Eva",
+        "gender": "Female",
+        "race": "White",
+        "hair": "Blonde",
+        "eye_color": "Blue",
+        "facial_shape": "Oval"
+    },
+
+    {   
+        "name": "larisa",
+        "gender": "Female",
+        "race": "White",
+        "hair": "Brown",
+        "eye_color": "Brown",
+        "facial_shape": "Oval"
+    },
+    
+    {
+        "name": "matej",
+        "gender": "Male",
+        "race": "White",
+        "hair": "Black",
+        "eye_color": "Blue",
+        "facial_shape": "Oval"
+    },
+
+    {   "name": "miha",
+        "gender": "Male",
+        "race": "White",
+        "hair": "Brown",
+        "eye_color": "Green",
+        "facial_shape": "Square"
+    }
+]
