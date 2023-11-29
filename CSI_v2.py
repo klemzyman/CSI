@@ -1,6 +1,6 @@
 import json
 
-with open("suspects_3.json", "r") as sus_json:
+with open("suspects_2.json", "r") as sus_json:
     suspects = json.loads(sus_json.read())
 
 with open("characteristics.json", "r") as char_json:
