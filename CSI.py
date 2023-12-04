@@ -15,7 +15,7 @@ for suspect in suspects:
         char_value = suspects[suspect][characteristic].lower()
         char_dna = characteristics[characteristic][char_value]
         
-        if dna.find(char_dna) != -1:
+        if char_dna in dna:
             char_matched += 1
         else:
             break
